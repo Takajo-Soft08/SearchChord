@@ -2,7 +2,6 @@ Hello
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>SearchChords(MainPage)</title>
   </head>
   <body>
     <div align="center">
