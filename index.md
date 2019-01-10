@@ -6,9 +6,13 @@
     <div align="center">
       <h1>SearchChords</h1>
       <hr size="2" width="90%" align="center" color="blue">
-      <h6> </h6>
       <h2>単音からコードを検索する</h2>
-      <input type="submit" value="Search Chord">
+      <input type="submit" value="Search Chord" onClick="fromSolo()">
+      <script>
+        function fromSolo(){
+          location.href = "https://takajo-soft08.github.io/SearchChord/FromSolo";
+        }
+      </script>
       <hr size="2" width="30%" align="center" color="grey">
       <h2>コードから単音を検索する</h2>
       <input type="submit" value="Search Notes">
