@@ -10,7 +10,7 @@
       <input type="submit" value="Search Chord" onClick="fromSolo()">
       <script>
         function fromSolo(){
-          location.href = "https://takajo-soft08.github.io/SearchChord/FromSolo";
+          location.href = "https://takajo-soft08.github.io/SearchChord/FromSolo/";
         }
       </script>
       <hr size="2" width="30%" align="center" color="grey">
