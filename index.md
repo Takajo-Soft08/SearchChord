@@ -10,7 +10,7 @@
       <input type="button" value="Search Chord" onClick="./FromSolo.html">
       <hr size="2" width="30%" align="center" color="grey">
       <h2>コードから単音を検索する</h2>
-      <input type="submit" value="Search Notes" onClick="history.back()">
+      <input type="submit" value="Search Notes">
       <hr size="2" width="30%" align="center" color="grey">
       <h2>使用方法</h2>
       <input type="submit" value="How to Use?" onClick="history.back()">
