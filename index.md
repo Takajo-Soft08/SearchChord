@@ -7,12 +7,7 @@
       <h1>SearchChords</h1>
       <hr size="2" width="90%" align="center" color="blue">
       <h2>単音からコードを検索する</h2>
-      <input type="submit" value="Search Chord" onClick="fromSolo()">
-      <script>
-        function fromSolo(){
-          location.href = "./FromSolo/";
-        }
-      </script>
+      <input type="button" value="Search Chord" onClick="location.href='./FromSolo.md'">
       <hr size="2" width="30%" align="center" color="grey">
       <h2>コードから単音を検索する</h2>
       <input type="submit" value="Search Notes">
