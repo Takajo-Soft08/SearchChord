@@ -43,7 +43,6 @@
           <option value="M7">M7</option>
         </select>
         <form name="chbox">
-          <input type="checkbox" value="(NonTension)">(NonTension)<br>
           <input type="checkbox" value="add9">add9<br>
           <input type="checkbox" value="add11">add11<br>
           <input type="checkbox" value="add13">add13<br>
@@ -52,14 +51,14 @@
         <script>
           function boxCheck(){
             var str="";                                     //チェックされた項目を記録する変数
-            for( i=0; i<4; i++ ){                           //for文でチェックボックスを１つずつ確認
+            for( i=0; i<3; i++ ){                           //for文でチェックボックスを１つずつ確認
               if( document.chbox.elements[i].checked ){     //チェックされているか確認する
                 if( str != "" ) str=str+",";                //変数strが空でない時、区切りのコンマを入れる
                 str=str+document.chbox.elements[i].value;   //チェックボックスのvalue値を変数strに入れる
               }
             }
             if( str=="" ){  //strが空の時、警告を出す
-              alert( "どれか選択してください。" );
+              alert( "(NonTension)が選択されました。" );
             }else{
               alert( str + "が選択されました。" );
             }
