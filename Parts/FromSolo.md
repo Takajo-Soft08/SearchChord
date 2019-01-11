@@ -9,18 +9,18 @@
       <h2>単音からコードを検索する</h2>
       <form name="chbox">
         <p>コードの構成音を選んでください。</p>
-        <input type="checkbox" value="C">C<br>
+        <input type="checkbox" value="C">C <br>
         <input type="checkbox" value="C#">C#<br>
-        <input type="checkbox" value="D">D<br>
+        <input type="checkbox" value="D">D <br>
         <input type="checkbox" value="D#">D#<br>
-        <input type="checkbox" value="E">E<br>
-        <input type="checkbox" value="F">F<br>
+        <input type="checkbox" value="E">E <br>
+        <input type="checkbox" value="F">F <br>
         <input type="checkbox" value="F#">F#<br>
-        <input type="checkbox" value="G">G<br>
+        <input type="checkbox" value="G">G <br>
         <input type="checkbox" value="G#">G#<br>
-        <input type="checkbox" value="A">A<br>
+        <input type="checkbox" value="A">A <br>
         <input type="checkbox" value="A#">A#<br>
-        <input type="checkbox" value="B">B<br>
+        <input type="checkbox" value="B">B <br>
         <input type="button" value="確認" onclick="boxCheck()">
       </form>
       <script>
