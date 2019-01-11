@@ -7,6 +7,7 @@
       <h1>Search Chords Mode</h1>
       <hr size="2" width="90%" align="center" color="blue">
       <h2>単音からコードを検索する</h2>
+      <p><img src="KeyBoard.gif" alt="キーボード"></p>
       <form name="chbox">
         <p>コードの構成音を選んでください。</p>
         <input type="checkbox" value="C">C <br>
