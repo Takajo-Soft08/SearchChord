@@ -8,10 +8,8 @@
       <hr size="2" width="90%" align="center" color="blue">
       <h2>単音からコードを検索する</h2>
       <a href="https://takajo-soft08.github.io/SearchChord/Parts/FromSolo.html">
-         <input type="button" value="test">
+         <input type="button" value="Search Chord">
       </a>
-      <a href="https://takajo-soft08.github.io/SearchChord/Parts/FromSolo.html" type="button" value="test"></a>
-      <input type="button" value="Search Chord" onClick="https://takajo-soft08.github.io/SearchChord/Parts/FromSolo.html">
       <hr size="2" width="30%" align="center" color="grey">
       <h2>コードから単音を検索する</h2>
       <input type="submit" value="Search Notes">
