@@ -30,13 +30,13 @@
       <hr size="2" width="70%" align="center" color="grey">
       <h1>5thの説明</h1>       
       <hr size="2" width="40%" align="center" color="grey">
-      <h2>[P5]…Perfect 5th(パーフェクトフィフス)</h2>
+      <h2>[P5]…Perfect 5th(パーフェクト フィフス)</h2>
       <h4>完全5度を表す。</h4>
       <hr size="2" width="40%" align="center" color="grey">
-      <h2>[+5(#5)]…Augument 5th(オーギュメントフィフス)</h2>
+      <h2>[+5(#5)]…Augmented 5th(オーギュメント フィフス)</h2>
       <h4>増5度を表す。</h4>
       <hr size="2" width="40%" align="center" color="grey">
-      <h2>[-5(♭5)]…Diminish 5th(ディミニッシュフィフス)</h2>
+      <h2>[-5(♭5)]…Diminished 5th(ディミニッシュド フィフス)</h2>
       <h4>減5度を表す。</h4>
       <hr size="2" width="40%" align="center" color="grey">
       <h2>[omit5]…omit5(オミットファイブ)</h2>
