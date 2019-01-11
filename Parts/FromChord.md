@@ -42,6 +42,29 @@
           <option value="7">7</option>
           <option value="M7">M7</option>
         </select>
+        <form name="chbox">
+          <input type="checkbox" value="(NonTension)">(NonTension)<br>
+          <input type="checkbox" value="add9">add9<br>
+          <input type="checkbox" value="add11">add11<br>
+          <input type="checkbox" value="add13">add13<br>
+          <input type="button" value="確認" onclick="boxCheck()">
+        </form>
+        <script>
+          function boxCheck(){
+            var str="";                                     //チェックされた項目を記録する変数
+            for( i=0; i<4; i++ ){                           //for文でチェックボックスを１つずつ確認
+              if( document.chbox.elements[i].checked ){     //チェックされているか確認する
+                if( str != "" ) str=str+",";                //変数strが空でない時、区切りのコンマを入れる
+                str=str+document.chbox.elements[i].value;   //チェックボックスのvalue値を変数strに入れる
+              }
+            }
+            if( str=="" ){  //strが空の時、警告を出す
+              alert( "どれか選択してください。" );
+            }else{
+              alert( str + "が選択されました。" );
+            }
+          }
+        </script>
       </p>
       <hr size="2" width="80%" align="center" color="orange">
       <h6 align="right">※この検索システムは、個人的にまとめたため、信頼度は低いです。あらかじめご了承ください。</h6>
