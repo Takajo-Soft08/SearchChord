@@ -7,7 +7,7 @@
       <h1>Search Chords Mode</h1>
       <hr size="2" width="90%" align="center" color="blue">
       <h2>コードから単音を検索する</h2>
-      <select name="root">
+      <select name="root" size="12">
         <option value="C">C</option>
         <option value="C#">C#</option>
         <option value="D">D</option>
