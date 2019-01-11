@@ -11,9 +11,9 @@
       <h6 align="right">※この検索システムは、個人的にまとめたため、信頼度は低いです。あらかじめご了承ください。</h6>
     </div>
     <div align="right">
-    <a href="https://takajo-soft08.github.io/SearchChord/" align="left">
-      Back To Home
-    </a>
+      <a href="https://takajo-soft08.github.io/SearchChord/" align="left">
+        Back To Home
+      </a>
     </div>
   </body>
 </html>
