@@ -38,7 +38,7 @@
         <select name="7th">
           <option value="(NonTension)">(NonTension)</option>
           <option value="6">6</option>
-          <option value="M7">M7</option>
+          <option value="6M7">6M7</option>
           <option value="7">7</option>
           <option value="M7">M7</option>
         </select>
