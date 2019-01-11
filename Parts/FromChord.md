@@ -10,8 +10,10 @@
       <hr size="2" width="80%" align="center" color="orange">
       <h6 align="right">※この検索システムは、個人的にまとめたため、信頼度は低いです。あらかじめご了承ください。</h6>
     </div>
-    <a href="https://takajo-soft08.github.io/SearchChord/" align="right">
-      Back To Home
-    </a>
+    <div align="right">
+      <a href="https://takajo-soft08.github.io/SearchChord/">
+         Back To Home
+      </a>
+    </div>
   </body>
 </html>
