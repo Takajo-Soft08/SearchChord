@@ -8,7 +8,7 @@
       <hr size="2" width="90%" align="center" color="blue">
       <h2>単音からコードを検索する</h2>
       <form name="chbox">
-        <p>あなたの好きな動物は？（複数可）</p>
+        <p>コードの構成音を選んでください。</p>
         <input type="checkbox" value="C">C<br>
         <input type="checkbox" value="C#">C#<br>
         <input type="checkbox" value="D">D<br>
