@@ -20,6 +20,10 @@
       <a href="https://takajo-soft08.github.io/SearchChord/Parts/HowToUse.html">
          <input type="button" value="How To Use?">
       </a>
+      <h2>コード解釈</h2>
+      <a href="https://takajo-soft08.github.io/SearchChord/Parts/Explanation.html">
+         <input type="button" value="Explanation">
+      </a>      
       <hr size="2" width="80%" align="center" color="orange">
       <h6 align="right">※この検索システムは、個人的にまとめたため、信頼度は低いです。あらかじめご了承ください。</h6>
     </div>
