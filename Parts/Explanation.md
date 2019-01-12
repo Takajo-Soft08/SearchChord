@@ -15,7 +15,20 @@
           <th>M [Major]</th>
           <th>root, M3, P5</th>
         </tr>
+        <tr>
+          <th>m [minor]</th>
+          <th>root, m3, P5</th>
+        </tr>
+        <tr>
+          <th>aug [Augment]</th>
+          <th>root, M3, +5</th>
+        </tr>
+        <tr>
+          <th>dim [Diminish]</th>
+          <th>root, m3, -5, mm7</th>
+        </tr>
       </table>
+      <h6>※ここでは、[dim]は減七の和音と見なし、7度を加えている。7度が無い[○dim]は[○m-5]をする。</h6>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">    
       <h1>3rdの説明</h1>       
