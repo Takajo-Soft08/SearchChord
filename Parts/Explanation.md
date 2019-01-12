@@ -10,10 +10,10 @@
       <h6>ここでは、コードに関連した用語についての説明を示す。</h6>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">
-      <table>
+      <table border="1">
         <tr>
-          <th>          
-          </th>
+          <th>M [Major]</th>
+          <th>root, M3, P5
         </tr>
       </table>
       <!-- -->
