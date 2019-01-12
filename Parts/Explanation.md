@@ -10,6 +10,14 @@
       <h6>ここでは、コードに関連した用語についての説明を示す。</h6>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">
+      <table>
+        <tr>
+          <th>          
+          </th>
+        </tr>
+      </table>
+      <!-- -->
+      <hr size="2" width="70%" align="center" color="grey">    
       <h1>3rdの説明</h1>       
       <hr size="2" width="40%" align="center" color="grey">
       <h2>[M]…Major</h2>
