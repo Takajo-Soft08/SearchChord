@@ -13,7 +13,7 @@
       <table border="1">
         <tr>
           <th>M [Major]</th>
-          <th>root, M3, P5
+          <th>root, M3, P5</th>
         </tr>
       </table>
       <!-- -->
