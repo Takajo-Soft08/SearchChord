@@ -43,7 +43,7 @@
         const numMaj=document.selector.Maj.selectedIndex;
         const strMaj=document.selector.Maj.options[numMaj].value;
         const strMajInv=document.selector.Maj.options[1-numMaj].value;       
-       <!---->
+
         const strKeyI  =document.selector.Key.options[numKey].value;
         const strKeyPl;
         if(numMaj==0) strKeyPl = document.selector.Key.options[(numKey+9)%12].value;
@@ -52,7 +52,7 @@
         const strKeySD =document.selector.Key.options[(numKey+5)%12].value;
         const strKeyDm =document.selector.Key.options[(numKey+4)%12].value;
         const strKeySDm=document.selector.Key.options[(numKey+2)%12].value;
-       <!---->
+
         document.getElementById("span1").textContent= strKeyI  +" "+ strMaj;
         document.getElementById("span2").textContent= strKeyI  +" "+ strMajInv;
         document.getElementById("span3").textContent= strKeyPl +" "+ strMajInv;
