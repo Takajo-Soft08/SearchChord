@@ -28,7 +28,7 @@
           <th>root, m3, -5, mm7</th>
         </tr>
       </table>
-      <h6>※ここでは、[dim]は減七の和音と見なし、7度を加えている。7度が無い[○dim]は[○m-5]をする。</h6>
+      <small>※ここでは、[dim]は減七の和音と見なし、7度を加えている。7度が無い[○dim]は[○m-5]をする。</small>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">    
       <h1>3rdの説明</h1>       
