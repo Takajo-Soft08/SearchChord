@@ -39,20 +39,23 @@
 -->
         const Key=document.selector.Key;
         const numKey=document.selector.Key.selectedIndex;
+        const Maj=document.selector.Maj;
+        const numMaj=document.selector.Maj.selectedIndex;
+        const strMaj=document.selector.Maj.options[numMaj].value;
+        const strMajInv=document.selector.Maj.options[1-numMaj].value;       
+       <!---->
         const strKeyI  =document.selector.Key.options[numKey].value;
-        const strKeyVI =document.selector.Key.options[(numKey+9)%12].value;
+        const strKeyPl;
+        if(numMaj==0) strKeyPl = document.selector.Key.options[(numKey+9)%12].value;
+        if(numMaj==1) strKeyPl = document.selector.Key.options[(numKey+3)%12].value;
         const strKeyD  =document.selector.Key.options[(numKey+7)%12].value;
         const strKeySD =document.selector.Key.options[(numKey+5)%12].value;
         const strKeyDm =document.selector.Key.options[(numKey+4)%12].value;
         const strKeySDm=document.selector.Key.options[(numKey+2)%12].value;
-        const Maj=document.selector.Maj;
-        const numMaj=document.selector.Maj.selectedIndex;
-        const strMaj=document.selector.Maj.options[numMaj].value;
-        const strMajInv=document.selector.Maj.options[1-numMaj].value;
-       
+       <!---->
         document.getElementById("span1").textContent= strKeyI  +" "+ strMaj;
         document.getElementById("span2").textContent= strKeyI  +" "+ strMajInv;
-        document.getElementById("span3").textContent= strKeyVI +" "+ strMajInv;
+        document.getElementById("span3").textContent= strKeyPl +" "+ strMajInv;
         document.getElementById("span4").textContent= strKeyD  +" "+ strMaj;
         document.getElementById("span5").textContent= strKeySD +" "+ strMaj;
         document.getElementById("span6").textContent= strKeyDm +" "+ strMajInv;
