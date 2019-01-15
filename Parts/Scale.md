@@ -53,6 +53,7 @@
           <td>下属調(Subdominant Key)</td>
           <td>F Major</td>
         </tr>
+        <tr>
           <td>属調平行調</td>
           <td>E minor</td>
         </tr>
