@@ -46,8 +46,8 @@
 
         const strKeyI  =document.selector.Key.options[numKey].value;
         const strKeyPl;
-        if(numMaj==0) strKeyPl = document.selector.Key.options[(numKey+9)%12].value;
-        if(numMaj==1) strKeyPl = document.selector.Key.options[(numKey+3)%12].value;
+        if(strMaj=="Major") strKeyPl = document.selector.Key.options[(numKey+9)%12].value;
+        else strKeyPl = document.selector.Key.options[(numKey+3)%12].value;
         const strKeyD  =document.selector.Key.options[(numKey+7)%12].value;
         const strKeySD =document.selector.Key.options[(numKey+5)%12].value;
         const strKeyDm =document.selector.Key.options[(numKey+4)%12].value;
