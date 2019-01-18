@@ -33,7 +33,7 @@
         </tr>
         <tr>
           <th>dim [Diminish]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>減5度</th> <th>短7度</th> <th></th>
+          <th>基音</th> <th></th> <th>短3度</th> <th>減5度</th> <th>減7度</th> <th></th>
         </tr>
         <tr>
           <th>add9 [added 9th]</th>
