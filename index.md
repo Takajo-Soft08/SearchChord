@@ -30,6 +30,7 @@
       <a href="https://takajo-soft08.github.io/SearchChord/Parts/Scale.html">
          <input type="button" value="Key Scale">
       </a>      
+      <hr size="2" width="30%" align="center" color="grey">
       <h2>使用方法</h2>
       <a href="https://takajo-soft08.github.io/SearchChord/Parts/HowToUse.html">
          <input type="button" value="How To Use?">
