@@ -6,8 +6,8 @@
     <div align="center">
       <h1>Search Chords Mode</h1>
       <hr size="2" width="90%" align="center" color="blue">
-      <h2>コード解釈</h2>
-      <h6>ここでは、コードに関連した用語についての説明を示す。</h6>
+      <h2>音程</h2>
+      <h6>ここでは、度数および転回音程についての説明を示す。</h6>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">
       <table border="1" color="green">
