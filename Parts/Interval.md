@@ -10,70 +10,8 @@
       <h6>ここでは、度数および転回音程についての説明を示す。</h6>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">
-      <table border="1" color="green">
-        <tr>
-          <th>M [Major]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>完全5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>m [minor]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>完全5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>sus2 [suspended 2nd]</th>
-          <th>基音</th> <th>長2度</th> <th></th> <th>完全5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>sus4 [suspended 4th]</th>
-          <th>基音</th> <th>完全4度</th> <th></th> <th>完全5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>aug [Augment]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>増5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>dim [Diminish]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>減5度</th> <th>短7度</th> <th></th>
-        </tr>
-        <tr>
-          <th>add9 [added 9th]</th>
-          <th>基音</th> <th>長2度(長9度)</th> <th>長3度</th> <th>完全5度</th> <th></th> <th></th>
-        </tr>
-        <tr>
-          <th>6 [6th]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>完全5度</th> <th>長6度</th> <th></th>
-        </tr>
-        <tr>
-          <th>m6 [minor 6th]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>完全5度</th> <th>長6度</th> <th></th>
-        </tr>
-        <tr>
-          <th>7 [7th]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>完全5度</th> <th>短7度</th> <th></th>
-        </tr>
-        <tr>
-          <th>m7 [minor 7th]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>完全5度</th> <th>短7度</th> <th></th>
-        </tr>
-        <tr>
-          <th>M7 [Major 7th]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>完全5度</th> <th>長7度</th> <th></th>
-        </tr>
-        <tr>
-          <th>mM7 [minor Major 7th]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>完全5度</th> <th>長7度</th> <th></th>
-        </tr>
-        <tr>
-          <th>69 [six-ninth]</th>
-          <th>基音</th> <th></th> <th>長3度</th> <th>完全5度</th> <th>長6度</th>  <th>長9度</th>
-        </tr>
-        <tr>
-          <th>m7♭5 [minor 7th flatted 5th]</th>
-          <th>基音</th> <th></th> <th>短3度</th> <th>減5度</th> <th>短7度</th> <th></th>
-        </tr>
-      </table>
-      <!-- -->     
-      <small>※ここでは、[dim]は減七の和音と見なし、7度を加えている。7度が無い[○dim]は[○m-5]をする。</small>
+      <p><img src="KeyBoard.gif" alt="キーボード"></p>
+      <p><img src="KeyBoard.gif" alt="キーボード"></p>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">    
       <h1>3rdの説明</h1>       
