@@ -11,7 +11,7 @@
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">
       <p><img src="KeyBoard.gif" alt="キーボード"></p>
-      <p><img src="KeyBoard.gif" alt="キーボード"></p>
+      <p><img src="Interval.gif" alt="転回音程"></p>
       <!-- -->
       <hr size="2" width="70%" align="center" color="grey">    
       <h1>3rdの説明</h1>       
